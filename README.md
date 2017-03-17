@@ -1,4 +1,3 @@
 # DataVizMap
 Map of DataViz Students 
-<iframe src="http://public.tableausoftware.com/views/DataVizStudentsbyNationality_Gender/Sheet1?:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+<iframe src="https://public.tableau.com/views/DataVizStudentsbyNationality_Gender/Sheet1?:embed=yes&:tabs=yes&:toolbar=yes" width="800" height="600"></iframe>
